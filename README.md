@@ -1,5 +1,5 @@
 # PyBank Financial Analysis
-
+![revenue-per-lead](https://user-images.githubusercontent.com/126130532/230037211-5115de50-9f1f-44f7-8c7f-b15215fd73b7.png)
 
 1. Analysis of a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
