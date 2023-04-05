@@ -3,7 +3,7 @@
 
 1. Analysis of a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
-The Python Script analyzes the records to calculate and print the following values:
+The Python Script analyzes the records to calculate and print in a text file the following values:
 
 - The total number of months included in the dataset
 - The net total amount of "Profit/Losses" over the entire period
@@ -11,7 +11,7 @@ The Python Script analyzes the records to calculate and print the following valu
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in profits (date and amount) over the entire period
 
-The result is shown below:
+The results are shown below:
 
 
 Financial Analysis
@@ -25,3 +25,34 @@ Average Change: $ -8311.11
 Greatest increase in Profits: 16-Aug ($1862002)
 
 Greatest decrease in Profits: 14-Feb ($-1825558)
+
+
+
+# PyPoll FElection Results
+
+2. Analysis of a set of poll data called election_data.csv. The dataset is composed of "Voter ID, County and Candidate".
+
+The Python Script analyzes the records to calculate and print in a text file the following values:
+
+- The total number of votes cast
+
+- A complete list of candidates who received votes
+
+- The percentage of votes each candidate won
+
+- The total number of votes each candidate won
+
+- The winner of the election based on popular vote
+
+The results are shown below:
+
+Election Results 
+--------------------------------------
+Total Votes: 369711
+--------------------------------------
+Charles Casper Stockham:23.049% (85213)
+Diana DeGette:73.812% (272892)
+Raymon Anthony Doane: 3.139% (11606)
+--------------------------------------
+Winner: Diana DeGette
+--------------------------------------
