@@ -28,7 +28,8 @@ Greatest decrease in Profits: 14-Feb ($-1825558)
 
 
 
-# PyPoll FElection Results
+# PyPoll Election Results
+![Vote_counting](https://user-images.githubusercontent.com/126130532/230044856-4c073bb5-cef4-424d-86f5-5eb7204c7abf.png)
 
 2. Analysis of a set of poll data called election_data.csv. The dataset is composed of "Voter ID, County and Candidate".
 
@@ -48,11 +49,19 @@ The results are shown below:
 
 Election Results 
 --------------------------------------
+
 Total Votes: 369711
+
 --------------------------------------
+
 Charles Casper Stockham:23.049% (85213)
+
 Diana DeGette:73.812% (272892)
+
 Raymon Anthony Doane: 3.139% (11606)
+
 --------------------------------------
+
 Winner: Diana DeGette
+
 --------------------------------------
